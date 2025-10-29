@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Noah7062
 - 👀 I’m interested in programming, VFX & sports
-- 🌱 I’m currently learning business computer scientist
+- 🌱 I’m currently studying business computer scientist
 - 📫 How to reach me: nschweizer@me.com
 
 <!---
